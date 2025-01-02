@@ -1,0 +1,6 @@
+/data/
+/data/raw/
+/data/processed/data/raw/*
+results/*.pkl
+data/raw/*
+results/*.pkl
